@@ -1,6 +1,6 @@
 # 4-Week Python Training 
 
-Welcome to my 4-week Python learning journey! This repository contains my daily notes, examples, and practice programs as I learn Python step by step.
+Welcome to my 4-week Python learning journey. This repository contains my daily diary, documenting the topics covered and tasks completed during my industrial training.
 
 ## Learning Progress
 
@@ -19,5 +19,15 @@ Welcome to my 4-week Python learning journey! This repository contains my daily 
   * Tuples
   * Dictionaries
   * Sets
-  * Common Built-in Functions
+  * Common Collection Functions
 
+* ✅ Day 3 – Loops and Functions
+
+  * `for` Loop
+  * `while` Loop
+  * Introduction to Functions
+  * Functions without Parameters
+  * Functions with Parameters
+  * Functions with Default Parameters
+
+More updates will be added as I continue my training journey. 
