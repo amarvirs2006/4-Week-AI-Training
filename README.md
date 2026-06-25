@@ -30,4 +30,12 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Functions with Parameters
   * Functions with Default Parameters
 
-More updates will be added as I continue my training journey. 
+- ✅ Day 4 – Object-Oriented Programming
+  - Classes
+  - Objects
+  - Constructors
+  - Instance Variables
+  - Class Variables
+  - Instance Methods
+  - Class Methods
+  - Static Methods
