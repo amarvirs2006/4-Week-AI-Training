@@ -39,3 +39,11 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   - Instance Methods
   - Class Methods
   - Static Methods
+
+- ✅ Day 5 – Inheritance
+  - Introduction to Inheritance
+  - Single Inheritance
+  - Multiple Inheritance
+  - Multilevel Inheritance
+  - Hierarchical Inheritance
+  - Hybrid Inheritance
