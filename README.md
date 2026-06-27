@@ -47,3 +47,12 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   - Multilevel Inheritance
   - Hierarchical Inheritance
   - Hybrid Inheritance
+
+  - ✅ Day 6 – Access Modifiers and Polymorphism
+  - Access Modifiers
+  - Public Members
+  - Protected Members
+  - Private Members
+  - Data Hiding
+  - Bank Account Example
+  - Polymorphism
