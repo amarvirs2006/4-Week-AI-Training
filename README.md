@@ -56,3 +56,16 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   - Data Hiding
   - Bank Account Example
   - Polymorphism
+
+  - ✅ Day 7 – NumPy
+  - Introduction to NumPy
+  - Advantages of NumPy
+  - Performance Comparison
+  - 1D, 2D and 3D Arrays
+  - Vectorization
+  - Array Properties (`size`, `shape`, `ndim`, `dtype`)
+  - NumPy Data Types
+  - Changing Data Types (`astype()`)
+  - Reshaping and Flattening Arrays
+  - Indexing
+  - Built-in Mathematical Functions
