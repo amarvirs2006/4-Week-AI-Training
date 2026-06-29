@@ -48,7 +48,7 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   - Hierarchical Inheritance
   - Hybrid Inheritance
 
-  - ✅ Day 6 – Access Modifiers and Polymorphism
+- ✅ Day 6 – Access Modifiers and Polymorphism
   - Access Modifiers
   - Public Members
   - Protected Members
@@ -57,7 +57,7 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   - Bank Account Example
   - Polymorphism
 
-  - ✅ Day 7 – NumPy
+- ✅ Day 7 – NumPy
   - Introduction to NumPy
   - Advantages of NumPy
   - Performance Comparison
