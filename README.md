@@ -69,3 +69,14 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   - Reshaping and Flattening Arrays
   - Indexing
   - Built-in Mathematical Functions
+
+* ✅ Day 8 – Pandas
+
+  * Introduction to Pandas
+  * Advantages of Pandas
+  * Series
+  * DataFrame
+  * Index and Labels
+  * Loading Datasets (CSV, Excel, JSON, SQL, Web)
+  * Exploratory Data Analysis (EDA)
+  * Data Inspection Functions (`head()`, `tail()`, `info()`, `describe()`, `columns`, `shape`)
