@@ -80,3 +80,16 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Loading Datasets (CSV, Excel, JSON, SQL, Web)
   * Exploratory Data Analysis (EDA)
   * Data Inspection Functions (`head()`, `tail()`, `info()`, `describe()`, `columns`, `shape`)
+
+* ✅ Day 9 – Pandas Data Cleaning and Transformation
+
+  * Selecting Rows and Columns
+  * Filtering Data with Conditions
+  * Data Cleaning and Preprocessing
+  * Handling Missing Values
+  * Detecting and Removing Duplicates
+  * Type Conversion using `astype()`
+  * Sorting and Ranking
+  * Reshaping Data
+  * Aggregation and Grouping
+  * Merging DataFrames
