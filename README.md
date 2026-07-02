@@ -93,3 +93,20 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Reshaping Data
   * Aggregation and Grouping
   * Merging DataFrames
+
+* ✅ Day 10 – Matplotlib and Data Visualization
+
+  * Importance of Data Visualization in AI & ML
+  * Introduction to Data Visualization
+  * Introduction to Matplotlib
+  * Installing and Importing Matplotlib
+  * Line Plot using `plt.plot()`
+  * Displaying Plots with `plt.show()`
+  * Adding X and Y Labels
+  * Multiple Lines in One Plot
+  * Using `plt.legend()`
+  * Bar Chart
+  * Pie Chart
+  * Histogram
+  * Scatter Plot
+  * Box Plot
