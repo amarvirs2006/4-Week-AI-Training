@@ -110,3 +110,24 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Histogram
   * Scatter Plot
   * Box Plot
+
+* ✅ Day 11 – Seaborn and Machine Learning Pipeline Overview
+
+  * Introduction to Seaborn
+  * Installing and Importing Seaborn
+  * Line Plot
+  * Bar Plot
+  * Scatter Plot
+  * Box Plot
+  * Heatmap
+  * Introduction to the Machine Learning Pipeline
+  * Dataset Collection
+  * Data Cleaning
+  * Data Transformation
+  * Encoding
+  * Feature Scaling
+  * Feature Selection
+  * Train-Test Split
+  * Model Training
+  * Model Testing
+  * Model Deployment
