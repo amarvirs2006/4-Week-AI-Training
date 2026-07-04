@@ -131,3 +131,14 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Model Training
   * Model Testing
   * Model Deployment
+
+* ✅ Day 12 – Data Preprocessing and Encoding
+
+  * Introduction to Data Preprocessing
+  * Handling Missing Values
+  * SimpleImputer
+  * Type Conversion using `astype()`
+  * One-Hot Encoding
+  * Ordinal Encoding
+  * Label Encoding
+  * Preparing Data for Machine Learning
