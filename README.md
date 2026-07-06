@@ -142,3 +142,10 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Ordinal Encoding
   * Label Encoding
   * Preparing Data for Machine Learning
+
+* ✅ Day 13 – Feature Scaling
+
+  * Revision of Encoding Techniques
+  * Introduction to Feature Scaling
+  * StandardScaler
+  * MinMaxScaler
