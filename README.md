@@ -149,3 +149,11 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Introduction to Feature Scaling
   * StandardScaler
   * MinMaxScaler
+
+* ✅ Day 14 – FunctionTransformer and Feature Selection
+
+  * Introduction to FunctionTransformer
+  * Custom Data Transformations
+  * Feature Selection
+  * Importance of Feature Selection
+  * Examples of Feature Selection
