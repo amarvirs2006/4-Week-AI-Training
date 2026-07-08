@@ -157,3 +157,13 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Feature Selection
   * Importance of Feature Selection
   * Examples of Feature Selection
+
+* ✅ Day 15 – Outlier Detection and Regression Overview
+
+  * Introduction to Outliers
+  * Detecting Outliers using Quartiles (IQR Method)
+  * Detecting Outliers using Z-Score
+  * Splitting Dataset into Training and Testing Sets
+  * Introduction to Simple Linear Regression
+  * Introduction to Multiple Linear Regression
+  
