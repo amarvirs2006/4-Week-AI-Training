@@ -167,3 +167,14 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Introduction to Simple Linear Regression
   * Introduction to Multiple Linear Regression
   
+* ✅ Day 16 – Linear Regression Implementation
+
+  * Simple Linear Regression
+  * Multiple Linear Regression
+  * Loading Datasets
+  * Train-Test Split
+  * One-Hot Encoding
+  * Model Training using `LinearRegression`
+  * Model Evaluation
+  * Making Predictions
+  * Data Visualization using Scatter Plot and Pair Plot
