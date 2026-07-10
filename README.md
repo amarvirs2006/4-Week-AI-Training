@@ -178,3 +178,15 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Model Evaluation
   * Making Predictions
   * Data Visualization using Scatter Plot and Pair Plot
+
+* ✅ Day 17 – Polynomial Regression and Logistic Regression
+
+  * Introduction to Polynomial Regression
+  * Polynomial Features
+  * Training a Polynomial Regression Model
+  * Model Evaluation
+  * Introduction to Logistic Regression
+  * Binary Classification
+  * StandardScaler
+  * Model Training and Prediction
+  * Accuracy Evaluation
