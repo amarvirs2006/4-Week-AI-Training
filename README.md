@@ -190,3 +190,20 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * StandardScaler
   * Model Training and Prediction
   * Accuracy Evaluation
+
+* ✅ Day 18 – Model Evaluation and Decision Trees
+
+  * Regression Evaluation Metrics
+  * Mean Absolute Error (MAE)
+  * Mean Squared Error (MSE)
+  * Root Mean Squared Error (RMSE)
+  * Classification Evaluation Metrics
+  * Confusion Matrix
+  * Accuracy
+  * Precision
+  * Recall
+  * Decision Tree Classifier
+  * Decision Tree Regressor
+  * Pre-Pruning
+  * Post-Pruning
+  * Model Visualization using `plot_tree()`
