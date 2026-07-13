@@ -207,3 +207,13 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Pre-Pruning
   * Post-Pruning
   * Model Visualization using `plot_tree()`
+
+* ✅ Day 19 – Support Vector Machine (SVM) and Naive Bayes
+
+  * Introduction to Support Vector Machine (SVM)
+  * Support Vector Classification (SVC)
+  * Support Vector Regression (SVR)
+  * Hyperplane and Support Vectors
+  * Introduction to Naive Bayes
+  * Bayes' Theorem
+  * Applications of Naive Bayes
