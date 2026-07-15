@@ -217,3 +217,14 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Introduction to Naive Bayes
   * Bayes' Theorem
   * Applications of Naive Bayes
+
+* ✅ Day 20 – Perceptron and Artificial Neural Networks (ANN)
+
+  * Introduction to Perceptron
+  * Artificial Neural Networks (ANN)
+  * Input Layer
+  * Hidden Layer
+  * Output Layer
+  * Activation Functions
+  * Loss Function
+  * Optimizer
