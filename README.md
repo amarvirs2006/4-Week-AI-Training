@@ -228,3 +228,17 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Activation Functions
   * Loss Function
   * Optimizer
+
+* ✅ Day 21 – Perceptron and Artificial Neural Network (ANN) Implementation
+
+  * Iris Dataset
+  * Data Preprocessing
+  * Label Encoding
+  * Feature Scaling
+  * Perceptron Classifier
+  * Artificial Neural Network (ANN)
+  * Dense Layers
+  * ReLU and Softmax Activation Functions
+  * Model Training and Evaluation
+  * Saving and Loading ANN Model
+  * Prediction on New Data
