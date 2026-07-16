@@ -242,3 +242,13 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Model Training and Evaluation
   * Saving and Loading ANN Model
   * Prediction on New Data
+
+* ✅ Day 22 – Machine Learning Project Selection and Data Preprocessing
+
+  * Selected ML Project
+  * Dataset Collection
+  * Dataset Exploration
+  * Data Cleaning
+  * Handling Missing Values
+  * KNN Imputer
+  * Preparing Data for Model Building
