@@ -252,3 +252,14 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Handling Missing Values
   * KNN Imputer
   * Preparing Data for Model Building
+
+* ✅ Day 23 – Food Health Score Prediction Project Completion
+
+  * Project Completion
+  * Feature Selection
+  * Data Cleaning
+  * KNN Imputer
+  * One-Hot Encoding
+  * Train-Test Split
+  * Random Forest Regressor
+  * Model Evaluation using R² Score
