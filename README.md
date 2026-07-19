@@ -263,3 +263,16 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Train-Test Split
   * Random Forest Regressor
   * Model Evaluation using R² Score
+
+* ✅ Day 24 – Introduction to Convolutional Neural Networks (CNN)
+
+  * Introduction to CNN
+  * Why CNN is Used
+  * Image Representation
+  * Convolution Layer
+  * Filters (Kernels)
+  * Feature Maps
+  * Activation Function
+  * Pooling Layer
+  * Fully Connected Layer
+  * Applications of CNN
