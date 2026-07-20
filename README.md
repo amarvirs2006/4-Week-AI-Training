@@ -276,3 +276,18 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Pooling Layer
   * Fully Connected Layer
   * Applications of CNN
+
+* ✅ Day 25 – CNN Implementation
+
+  * Loading Image Dataset
+  * Image Preprocessing
+  * Image Normalization
+  * Building a CNN Model
+  * Convolution Layer (Conv2D)
+  * Batch Normalization
+  * Max Pooling
+  * Flatten Layer
+  * Dense Layers
+  * Dropout Layer
+  * Binary Classification
+  * Model Compilation and Training
