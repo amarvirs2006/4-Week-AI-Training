@@ -291,3 +291,14 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Dropout Layer
   * Binary Classification
   * Model Compilation and Training
+
+* ✅ Day 26 – Introduction to OpenCV
+
+  * Introduction to OpenCV
+  * Installing OpenCV
+  * Importing OpenCV
+  * Reading Images
+  * Displaying Images
+  * Image Properties
+  * Converting Images to Grayscale
+  * Saving Images
