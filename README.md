@@ -302,3 +302,12 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Image Properties
   * Converting Images to Grayscale
   * Saving Images
+
+* ✅ Day 27 – OpenCV Image Transformations
+
+  * Image Resizing
+  * Image Cropping
+  * Image Flipping
+  * Image Rotation
+  * Transformation Matrix
+  * Image Manipulation using OpenCV
