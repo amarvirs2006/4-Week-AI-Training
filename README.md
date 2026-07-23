@@ -311,3 +311,15 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Image Rotation
   * Transformation Matrix
   * Image Manipulation using OpenCV
+
+* ✅ Day 28 – OpenCV Drawing and Image Processing
+
+  * Drawing Lines
+  * Drawing Rectangles
+  * Drawing Circles
+  * Adding Text to Images
+  * Video Capture
+  * Saving Videos
+  * Median Blur
+  * Gaussian Blur
+  * Image Sharpening
