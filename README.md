@@ -323,3 +323,13 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Median Blur
   * Gaussian Blur
   * Image Sharpening
+
+* ✅ Day 29 – Contour Detection and Shape Recognition
+
+  * Image Thresholding
+  * Contour Detection
+  * Drawing Contours
+  * Contour Approximation
+  * Shape Detection
+  * Shape Labeling
+  * OpenCV Image Processing
