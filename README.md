@@ -333,3 +333,12 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Shape Detection
   * Shape Labeling
   * OpenCV Image Processing
+
+* ✅ Day 30 – Final Project Introduction and Environment Setup
+
+  * Final Project Selection
+  * Facial Emotion Recognition
+  * FER-2013 Dataset
+  * Project Features
+  * Virtual Environment Setup
+  * Project Planning
