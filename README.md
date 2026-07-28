@@ -358,3 +358,14 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Early Stopping
   * Learning Rate Scheduling
   * Model Training
+
+* ✅ Day 32 – Introduction to Generative AI and LLMs
+
+  * Introduction to Generative AI
+  * Large Language Models (LLMs)
+  * LangChain
+  * Types of AI Models
+  * Prompt Engineering
+  * Mistral AI API
+  * Environment Variables (.env)
+  * Generating Responses using LLM
