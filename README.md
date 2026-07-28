@@ -342,3 +342,19 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Project Features
   * Virtual Environment Setup
   * Project Planning
+
+* ✅ Day 31 – Facial Emotion Recognition CNN Model
+
+  * FER-2013 Dataset
+  * Data Augmentation
+  * CNN Architecture
+  * Batch Normalization
+  * Max Pooling
+  * Global Average Pooling
+  * Dropout
+  * Softmax Classification
+  * Model Compilation
+  * Model Checkpoints
+  * Early Stopping
+  * Learning Rate Scheduling
+  * Model Training
