@@ -381,3 +381,14 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Emotion Prediction
   * Displaying Emotion Labels
   * Real-Time Emotion Recognition
+
+* ✅ Day 34 – Facial Emotion Recognition GUI
+
+  * Desktop GUI using CustomTkinter
+  * Live Webcam Feed
+  * Real-Time Emotion Detection
+  * Emotion Confidence Bars
+  * FPS Counter
+  * Snapshot Saving
+  * Background Threading
+  * User-Friendly Interface
