@@ -369,3 +369,15 @@ Welcome to my 4-week Python learning journey. This repository contains my daily 
   * Mistral AI API
   * Environment Variables (.env)
   * Generating Responses using LLM
+
+* ✅ Day 33 – Facial Emotion Recognition Real-Time Prediction
+
+  * OpenCV Face Detection
+  * Haar Cascade Classifier
+  * Loading Trained CNN Model
+  * Webcam Integration
+  * Face Detection
+  * Image Preprocessing
+  * Emotion Prediction
+  * Displaying Emotion Labels
+  * Real-Time Emotion Recognition
